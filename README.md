@@ -20,7 +20,7 @@ This project explores the **Chinook** sample database using **SQL queries** exec
 
 - **Source:** Chinook Database
 - **Format:** SQLite (`.db` file)
-- **Key Tables:**
+- **Tables:**
   - `Artist`, `Album`, `Track`, `Genre`
   - `Customer`, `Invoice`, `InvoiceLine`
   - `Employee`, `MediaType`, `Playlist`
