@@ -43,4 +43,3 @@ This project explores the **Chinook** sample database using **SQL queries** exec
 - Identified top customers and countries with the highest number of purchases.
 - Merged invoice and track information for detailed trend analysis.
 
-##  Video link
